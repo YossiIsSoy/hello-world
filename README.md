@@ -1,4 +1,7 @@
-# hello-world
-tutorial repository
-student of medicine with a fascination in computer programming
-commit to show how to commit
+# Hello World
+
+This repository is a simple tutorial for experimenting with Git.
+
+I am a student of medicine with a fascination for computer programming.
+
+This commit demonstrates how to make a commit.
